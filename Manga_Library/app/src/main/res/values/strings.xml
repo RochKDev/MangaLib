@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Manga_Library</string>
+    <string name="new_releases_screen">Releases</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="library">Library</string>
+    <string name="search">Search</string>
+    <string name="top">Top</string>
+    <string name="account">Account</string>
+    <string name="manga_details">Manga Details</string>
+    <string name="app_title">MangaLib</string>
+    <string name="top_rated_manga">Top Rated</string>
+    <string name="top_followed_manga">Most Followed</string>
+    <string name="root">Root</string>
+    <string name="description_tag">Description</string>
+    <string name="default_web_client_id">507456253178-sidn3so1glhkdp4ng7kaarhell0qk5tb.apps.googleusercontent.com</string>
+    <string name="sign_in">Sign In</string>
+    <string name="favorites">Favorites</string>
+
+
+
+</resources>
