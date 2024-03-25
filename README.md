@@ -1,7 +1,5 @@
 # MangaLib
 
-Maze Builder is a desktop application that lets you create a maze using an algorithm of your choice and also solving it with any other algorithm of your choice.
-
 MangaLib is an Android mobile application that lets the user track best rated mangas, most followed mangas, manage his library of mangas and his favourite ones. The app uses the [Mangadex](https://api.mangadex.org/docs/) API and for the database it uses [Firebase](https://firebase.google.com).
 
 ## Tech Stack
