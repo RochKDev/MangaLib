@@ -11,6 +11,8 @@ MangaLib is an Android mobile application that lets the user track best rated ma
 ## Features
 
 - Authentication so the user can log in and have acces to his library.
+- Responsive to the user's device dark/light theme.
+- Responsive to screen rotation.
 - Managing said library :
   - Adding a manga to his library.
   - Adding a manga to his favourites.
